@@ -1,0 +1,3 @@
+[submodule "mfe-module"]
+	path = mfe-module
+	url = https://github.com/davigl/mfe-module
